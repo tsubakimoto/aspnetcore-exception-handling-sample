@@ -12,6 +12,7 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
+            throw new Exception($"now -> {DateTime.Now.ToLongTimeString()}");
             return View();
         }
 

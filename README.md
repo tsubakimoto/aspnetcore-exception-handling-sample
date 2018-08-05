@@ -1,0 +1,2 @@
+# aspnetcore-exception-handling-sample
+[Centralized exception handling and request validation in ASP.NET Core | StrathWeb. A free flowing web tech monologue.](https://www.strathweb.com/2018/07/centralized-exception-handling-and-request-validation-in-asp-net-core/)
